@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A just plea against swearing, and against the national worship of England briefly demonstrating the grounds and reasons why we choose rather to suffer, then to bow to either of them. By a sufferer for his testimony against them, known by the name of Ja. Picton.</title>
+            <author>Picton, James.</author>
+         </titleStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54822</idno><idno type="EEBO-CITATION">99831920</idno>
+  <idno type="VID">36387</idno>
+  <idno type="EEBO-PROQUEST">2248502090</idno>
+  
+            <idno type="STC">Wing P2154</idno>
+            <idno type="STC">ESTC R220524</idno>
+            <idno type="PROQUEST">99831920</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831920e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36387)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2130:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A just plea against swearing, and against the national worship of England briefly demonstrating the grounds and reasons why we choose rather to suffer, then to bow to either of them. By a sufferer for his testimony against them, known by the name of Ja. Picton.</title>
+                  <author>Picton, James.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Swearing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36387:1"/>
+            <p>A Just PLEA AGAINST SWEARING, And against the National Worship OF ENGLAND: Briefly demonstrating the Grounds and Reasons why we choose rather to Suffer, then to Bow to either of them.</p>
+            <p>By a Sufferer for his Testimony against them, known by the name of <hi>Ja. Picton.</hi>
+            </p>
+            <q>
+               <p>The blood-thirsty hateth the upright, but the just seek his soul,</p>
+               <bibl>
+                  <hi>Prov. 29. ver. 10.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>They build up Sion with blood, and Jerusalem with iniquity,</p>
+               <bibl>
+                  <hi>Micah 3.10.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>By Swearing and lying, killing and stealing, and committing adultery they break out, and blood toucheth blood; therefore shall the Land mourn,</p>
+               <bibl>
+                  <hi>Hos. 4.2.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>And it shall come to pass in that day (saith the Lord) that the heart of the King shall perish, and the heart of the Princes: and the Priests shall be astonished, and the Prophets shall wonder,</p>
+               <bibl>
+                  <hi>Jer. 4.9.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>For I have heard a voice as of a woman in travel, and the anguish as of her that brought forth her first child; the voice of the daughter of Sion that bewaileth her self, that spreadeth her hands, saying, Wo is me now, for my soul is wearied because of murtherers.</p>
+            </q>
+            <p>LONDON, Printed in the Year, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:36387:2"/>
+            <pb n="1" facs="tcp:36387:2"/>
+            <head>A just plea against Swearing, and against the National Worship of <hi>England, &amp;c.</hi>
+            </head>
+            <p>IN all ages and generations, great and manifold have bin the snares of the enemy to catch and intrap the innocent; a<g ref="char:EOLhyphen"/>mong others in this age, this hath been made much use of, to persecute, imprison banish, and make havock of the goods of thousands in this nation of <hi>England</hi> within these few years; <hi>viz.</hi> not swearing and denying those things which are contrary to Christian practices, and the imposed Forms of Worship, as their practice do evidently demonstrate, by enjoining and forcing men and women with penalties of outward laws, to own and bow unto such a Forme of Worship, such a Priest, such a time and place as they shall appoint, contrary to the practice and example of those that feared the Lord in all ages, as the Scriptures of truth do testify: And though much have been spoken by other friends in several parts of this nation tending to the clearing of this truth, which might have satisfied any unbyassed Judgement, and caused them to cease per<g ref="char:EOLhyphen"/>secuting upon this account, and let the innocent go free; yet not<g ref="char:EOLhyphen"/>withstanding being tossed upon their Horns from one to another, and from place to place, least the persecuters of those places where I suffer being not desirous to be informed of the truth should not seek after what hath been spoken by others a far off, and so should continu<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> willingly ignorant of the just grounds and reasons why we choose rather to suffer for the testimony of the truth revealed in us, than obey mans will commanding the contrary; and that it is not Stub<g ref="char:EOLhyphen"/>bornness and self-will, as it is alleaged against us; knowing the ter<g ref="char:EOLhyphen"/>rour of the Lord, and the danger they are running unto by perse<g ref="char:EOLhyphen"/>cuting the innocent, it lyes on me in love to their immortal fouls to clear my conscience towards them why we cannot Swear, nor Bow to their Worships set up by the authority of the Nation: so whether they will hear or forbear I may be clear in the sight of God, they in excusable.</p>
+            <p n="1">First, As concerning Swearing we finde it forbidden by Christ, who
+<pb n="2" facs="tcp:36387:3"/>is our leader and our example all along in his words while on earth in that former body which suffered at Jerusalem: also we finde the same Spirit which spoke through him all that is contained of him in the Scriptures of truth, bearing witness unto the same Truth in us, which gives us assurance of the infallibility and truth thereof; and that there is in it no falshood nor lyes, 1. <hi>Joh.</hi> 2.27. &amp; Chap 3.24 &amp; 4, 13. The words are plain <hi>Math.</hi> 5.34. and <hi>Isa.</hi> 5.12. where all Swearing is straightly and absolutely forbidden, without any wrest<g ref="char:EOLhyphen"/>ing of the words, adding thereto, or diminishing from them.</p>
+            <p>
+               <hi>Object.</hi> But the common Objection is, that it is forswearing and vain swearing that is there forbidden.</p>
+            <p>
+               <hi>Ans.</hi> If he had forbidden no more, he had no need to have given them any new precept, but turned them back to <hi>Moses,</hi> as he did in many other cases; because <hi>Moses</hi> his words seemed to be of more credit among them than his: <hi>Moses</hi> they knew (said the <hi>Jews</hi>) and the Prophets, but him they know not; false swearing and vain swearing were strictly forbidden by him, but these words have the same Emphasis, force and analogy as the precedent verses, where the Law saith, Thou shalt not commit adultery, the Law took hold on the outward fact, and punished not until then; but he who came and comes to fulfil the Righteousness of the Law, reaches more home, searches the heart, judges the thoughts, and condemns the very looking on a woman to lust after her, cuts down the transgressor at the root, whereby it might not bud again. So here the Law saith, Thou shalt not forsw ear thy self; but I (saith he, go<g ref="char:EOLhyphen"/>ing neerer to the root of the matter) say unto you, Swear not at all, and instances in particular wayes whereby they did swear, neither by Heaven, nor by Earth, nor by <hi>Jerusalem;</hi> nor by as much as the hair of thy head; nor, (as <hi>James</hi> guided by the same Spirit saith) by any other <hi>Oath,</hi> so that by these words, any other <hi>Oath,</hi> swearing by Books, and kissing them, is as strictly, plainly, positively and solemn<g ref="char:EOLhyphen"/>ly forbidden, as by Heaven, Earth, <hi>Jesusalem</hi> &amp;c. For <hi>Jerusalem</hi> was in those dayes (being the place where the Lord had placed his Name, and appeared unto his people) of great esteem among the <hi>Jews,</hi> and in their blinde zeal by custom and tradition (through ignorance of the God that appeared there) as much adored as the Book is now by those who know not in Spirit and Truth, that living God who revealed unto his people the truth therein declared; so that you now, as they then, suck the shell instead of the kernel, and take the husk for the grain, adore the place, instead of him that fils and comprehends all
+<pb n="3" facs="tcp:36387:3"/>places; and the sound of words, more than him that gave forth the matter;
+<note place="margin">
+                  <hi>Jere.</hi> 5.2.7, <hi>verses,</hi>
+               </note> so that I may upon the same occasion reprove you in <hi>Jere<g ref="char:EOLhyphen"/>mies</hi> words. Ye swear by them that are no Gods, and though ye swear, ye swear falsly. Yea, ye have committed two evils, ye have forsaken the fountain of living waters, and digged unto your selves broken Cisterns that will hold no water.</p>
+            <p n="2">2dly. <note place="margin">Witness Bi<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Iron-sides l<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> treatise.</note> The Law as given forth by <hi>Moses</hi> (as certain of your own Bish<g ref="char:EOLhyphen"/>ops do affirm whose words are credible among you was of force, and binding only to the <hi>Jews,</hi> who at that time were the onely cho<g ref="char:EOLhyphen"/>sen people of all the earth; to whom the Law,
+<note place="margin">
+                  <hi>Rom.</hi> 3.2.</note> the Ordinances and Oracles of God were committed; so that no other nation were tyed to the observation thereof; no, not after their conversion from Gentilisme and Heathenism, to the Lord, but onely they, as it was concluded by the Apostles, and brethren met together concerning this very matter, when some would bind the Gentiles converted to the faith, to the observation of <hi>Moses</hi> his Law, whose decree was that they lay no other burden upon the Disciples, but that they abstain from fornication, from pollutions of idols, from blood,
+<note place="margin">
+                  <hi>Acts.</hi> 25.</note> and from things strangled. And Paul was affraid he had spent his labour in vain upon the <hi>Galatians,</hi>
+               <note place="margin">
+                  <hi>Gal.</hi> 4.10.</note> because they were apt to go back to the customary observation (according to the Law) of dayes, months &amp; yeares; so that we being the off spring of the Gentiles, were not bound (if we had lived in Moses his time) by his own <hi>Law</hi> to ob<g ref="char:EOLhyphen"/>serve it in the manner and circumstantials thereof as given forth by him; so that swearing is absolutely forbidden by Christ who in us fulfils all righteousness, was never binding unto us by <hi>Moses</hi> his Law, and to whom it was binding there is no mention of any penalty, as fines, imprisonment, or banishment, if they did not.</p>
+            <p n="3">3dly. Besides, I may lawfully say of this precept of <hi>Moses</hi> con<g ref="char:EOLhyphen"/>cerning swearing, as it was said of old concerning divorcement, that <hi>Moses</hi> because of the rebellion and disobedience of the people to<g ref="char:EOLhyphen"/>wards the Lord as also their falshood and deceitful dealing one to<g ref="char:EOLhyphen"/>wards another enjoined the people upon special occasions to such an Ordinance in the beginning, when there was no hardnesse of heart, no disobedience nor deceit; it was not so, the ground and reasons mo<g ref="char:EOLhyphen"/>ving <hi>Moses</hi> to such a precept, were different then now they are; then it was when the people had at any time backslidden from the Lord, broken their Covennat and Vows by disobedience, and following their own wills; whether King alone, or King and people together,
+<pb n="4" facs="tcp:36387:4"/>as they had offended jointly or severally, they were called again unto the Lord by his servants the prophets to humiliation for their for<g ref="char:EOLhyphen"/>mer offences, and to make solemn Vows and covenants not to backslide again, so that the end of this was to renew the Vows, and bring into the covenant of their God an apostatised and back<g ref="char:EOLhyphen"/>sliden people, neither did the prophets require it of those who had not backsliden, as now it is. In the beginning when man was in the image of God there was no covenant breaking, and so conse<g ref="char:EOLhyphen"/>quently no need of renewing it by swearing and Vowing; so that the cause of this was hardness of heart, which from the beginning was notso.</p>
+            <p n="4">4thly. The cause of that swearing required by <hi>Moses</hi> was Aposta<g ref="char:EOLhyphen"/>cy from the Lord, and yet left without an external penalty if they did not swear; and now those are required to swear, who are in Co<g ref="char:EOLhyphen"/>venant with the Lord, to set up man above God head of the Church, whereof Christ alone we own our head so that the matter requiring oaths is altered and turned quite contrary.</p>
+            <p n="5">5thly, Another Objection is, that an oath of confirmation is an end of all strife; how shall we believe one another (say they) or de<g ref="char:EOLhyphen"/>cide controversies without an Oath.</p>
+            <p>
+               <hi>Ans.</hi> When man was in the image of God, there was no deceitful dealing nor strife, so consequently no need of swearing to decide it: as strife and deceit brought in swearing, so those that are come to the Son, are come to the image of God out of strife, unto that state which was before strife and contention, and swearing was: Take a<g ref="char:EOLhyphen"/>way the cause the effect will cease, come to the Son and he will make free from strife and contention the causes of swearing,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>blata causa <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>itur effect.</note> and consequently from swearing it self among us who are come to the Son, who fulfils the Law.</p>
+            <p n="6">6thly. As for the manner of swearing among the <hi>Jewes, Moses</hi> tyes them not to any form of words, but leaves it to the freedom of their own Spirits, both when they renewed their Covenant with the Lord, as also in testifying the truth between man and man, which condemnes the binding to a form of words, and kissing bookes.</p>
+            <p>Among other nations they swore by that which they esteemed most;
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ph.</hi> 1 5.</note> as by their idol Gods which most nations had appropriated to themselves; some by <hi>Malcham,</hi> others by the Life and pro<g ref="char:EOLhyphen"/>sperity of their Emperours; as by the life of <hi>Pharoah,</hi> by the prosperity and fortune of <hi>Caesar,</hi> whatsoever they did
+<pb n="5" facs="tcp:36387:4"/>most adore, they swore by, and kissed them; in imitation of this the Nation of <hi>England</hi> setting the book (as the Papists the Crucifix) in the room of God, swear by it as though it were their God, so that in this very point (though they call themselves Chri<g ref="char:EOLhyphen"/>stians) they take the heathen for their example, not Christ nor <hi>Moses.</hi>
+            </p>
+            <p>So the sum is this of all that hath been spoken, <hi>Moses</hi> required it of the <hi>Jews</hi> a particular Nation to whom the Law was given because of Covenant breaking, bound no other nation to it, nor added no pe<g ref="char:EOLhyphen"/>nalty in case they did not swear, but left them to the Lord to deal with as he saw fit, never required such oaths as these neither for mat<g ref="char:EOLhyphen"/>ter nor manner, nor any beathen Kings, of Christians; it was a suffi<g ref="char:EOLhyphen"/>cient plea for them when brought before rulers to say, <hi>Christiamus sum,</hi> and they were urged no further to swear, as knowing their free<g ref="char:EOLhyphen"/>dom that they could not swear, and belie<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the verity of their speech that they could not lye; and they that are come to Christ are come out of swearing in general to Yea and Nay, or if the matter requires (being not bound so narrowly to such words) to make what we aver more credible, to call God to record (as <hi>Paul</hi> did) that it is, or is not, so.</p>
+            <p>So it is, clear and evident to any unprejudiced Spirit that we suf<g ref="char:EOLhyphen"/>fer for our pure obedience to Christs commands, and our blood will be too h<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avy a burden for our persecutors to bear in the day when all that they have done shall be layd open, bare &amp; naked before them; neither Kings, nor Princes, nor all the powers of the earth, shall be able to deliver them from the righteous judgements of the Lord doe unto them for their deeds done in the body Oh be ashamed and blush, call not your selves Christians any more until you repent of your former actings, put away your abominations, cease to do evil, let the innocent go free, and be wholly changed in your Spirits, then come and let us reason together, perhaps some of you who are not altoge<g ref="char:EOLhyphen"/>ther hardned in heart, seared in conscience, and given up to repro<g ref="char:EOLhyphen"/>bation may finde place of repentance, which is the desire of my soul.</p>
+            <p>As for your Worship,
+<note place="margin">Corruptio ti<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>a est <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>na.</note> it differs nothing in the ground from the worship of those you call heathens, but of them both is worst, because you profess to know more than they, and being in the same perse<g ref="char:EOLhyphen"/>cuting bloud thirsty nature practice no better than the darkest of them: All nations walk in the name of their God, what hath most influence upon their spirits and is most sutable to their tempers and
+<pb n="6" facs="tcp:36387:5"/>inclinations or naturall Climate wherein they have their being, that they love best and follow, every nation according to it's custome &amp; tradition set up some way or other to worship they know not what; So the right eye being blinded, and the light of Christ not heeded, having nothing else to guide them, are led by the Prince of the power of the air, to do whatsoever their apostatized hearts lusts after; and either through prescriptions, customes or tradition, ima<g ref="char:EOLhyphen"/>gining there is some Deity to be adored, being ignorant who he is, nor how he is to be known, in their dark apprehensions and chambers of imagery, frame and invent to themselves in their own will a form and way of worship, contrary to the true worship of the Lord, which is in Spirit and truth, and would make the heads of the nations de<g ref="char:EOLhyphen"/>fender of their worships, whereby they are often overthrown, and <hi>Cain</hi>-like, murther those that know better, and cannot bow to it. Some for <hi>Mahomet</hi> and the <hi>Alcaron,</hi> some for <hi>Masses</hi> and Images without; others, their imaginations and corrupt wils, as Common-Prayers (so called) Directories; some for Church-Faith, sprinkling of Babes with a little water, Bread and Wine, which they call Sacraments; all agree inforcing to it by outward compulsion, and vvresting maintenance for it, as vvell from those vvho ovvn it not, as those vvho do own it: thus all the vvorld lyes in vvickednesse, and like <hi>Nebuchadnezzars</hi> I<g ref="char:EOLhyphen"/>mage, in confusion; some in more grosse darknesse, others being not so deep in the pit of degeneration, see those that are deeper in the fall; and because they are not in the same sphear and height of the Cli<g ref="char:EOLhyphen"/>mate to it, not agreeing in every particular, kill, and murther one another about their religions, each esteeming his ovvn best, vvould fain maintain it, and keep it up as <hi>Cain, Nebuchadnezzar, Herod, Nero,</hi> and others of the same Nature did; and to him that hath the longest svvord all bovv,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>janglng <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, Choristers, <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d Organs.</note> call him the defender of their Faith, and svvear him so, and bind themselves vvith an oath to submit to vvhatsoever vvor<g ref="char:EOLhyphen"/>ship they set up, and vvhosoever vvil not, at the sound of their mu<g ref="char:EOLhyphen"/>sick, must bear the penalty of their Lavv provided to maintain it: vvhat doth the vvorship of the English Nation differ from this? and wherein are they better than the fore-mentioned, their practice being the same in every particular.</p>
+            <p>In the beginning God made man perfect, and breathed into his nostrils the breath of life, and man became a living soul, his life and his breath vvas from God his Maker, and in him he could have vvithstood the subtil persvvasions of the Serpentine vvisdom, and
+<pb n="7" facs="tcp:36387:5"/>cast it off from creeping and twisting about him, but not standing in the Counsel of his maker, but giving heed to that which would make him wise to know good and evil; that he might practice what he would or liked best, if he liked evil he could cover it over and call it good, and on the contrary good evil, whereby he might condemn it as all the World in that state do at this day. Now man being gone from the Counsel of God became dark, lost his way, gropes in the dark, knowes not what he is doing, nor whither he is going, being from that which God hath given to guide him, all that a man doth is evil, and that con<g ref="char:EOLhyphen"/>tinually. Now to be from the light the witness in the conscence for God to guide him, is sin and iniquity whatsoever a man doth; for obe<g ref="char:EOLhyphen"/>dience unto the witness, the light, the unction, or the Spirit of Truth in us makes us the Sons of God, and our works perfect and acceptable unto him; and he that is not come to own the witness of God, which is Christ, or the annointing seed what pretence or colour soever he may have) being not led by that, he is none of Christs, his deeds are evil, and in his own will involves himself more and more in darkness and confusion; there is no other way, no other name whereby a man may come to the Father, but by Christ the Light, the witness for God in man: Wandering and going aftray from that is rebellion, witchcraft and disobedience; to walk close with it, and to be lead by it, is the per<g ref="char:EOLhyphen"/>fect and acceptable service to God the Father, who through his Son, his annointing seed, his Light (which he caused to shine out of darkness) hath called us to be witnesses for his name at this day; and this Light which we own for our leader was given to lighten the Gentiles, and is the glory of his people who obey it, but the condemnation of the old world lying in wickedness; now the woman is coming out of the wilderness cloathed with the Light of the Sun, and the Moon under her feet, shining gloriously upon the tops of the high Mountains and Hills, condemning the old World, and by its heat causing the old Hea<g ref="char:EOLhyphen"/>ven and the old Earth to meit away; and our work in this age being to pull down the old building of <hi>Babylon, viz.</hi> Confusion, to cast down her strong holds and imaginations, and to scatter all the old rubbeges thereof, which must be done ere any stone of the new building be layd, or a new Creation, a new Heaven and a new Earth witnessed; this seems a fowl work, and an unacceptable piece of service unto those who are heaping up confusions, building of <hi>Babels</hi> imaginations, Castles in the aire, and know no other way to re-enter into Paradice from whence they came forth, the higher they are gone in this confused
+<pb n="8" facs="tcp:36387:6"/>building, the more unwilling they are to leave it and the greater cross it is to pall it down, yet this I assert for an infallible &amp; undoubted truth, that before a new Creation <hi>(vid.)</hi> a new Heaven and a new Earth can be witnessed, every man and woman must come to that which is buried under all, and burdened with the rubbeges and stones of their old corruption; and though it be cross to their own will, and de<g ref="char:EOLhyphen"/>structive to their own building, yea the condemnation of all that was before it, for every one must be redeemed through judgment, must pass through the fire upon the point of the sword and take a cross to his own will before he can enter into life, or be Christs disciple: now this is the reason that we are hated and persecuted because we are sent as lights into the World, to condemn the old world for their wickedness,
+<note place="margin">
+                  <hi>Jo.</hi> 19.3.21.20.</note> they loving their evil deeds cannot stand in the Light which passeth true judgment, least their deeds should be detected, and their torment begin (as they sup<g ref="char:EOLhyphen"/>pose) before the time; this is my advice and counsel to all who are yet enemies to God, and hate his appearance, that they come to the Light to have their evil deed, discovered, stand in the Judgment, bear the Cross, let judgment pass upon all which cannot stand in the light, and so through the Cross be united unto, and one with that birth to which there is no condemnation, but hath peace with God, and joyes in him for ever; otherwise there is no peace to the wicked, though he may cover himself a vvhile vvith vailes of darkness in the body, yet their tabernacle being layed aside in that state vvithout reconcisiation to God in his ovvn vvay as before mentioned, there is no more place of repentance nor redemption from the grave, no end of their tor<g ref="char:EOLhyphen"/>ment for ever; the spirit vvhich abode not in the truth hath no peace vvith God, neither is there any place to hide from him; therefore be advised, stand in the judgment of God till the enemy be condemned and done avvay; then vvill your peace be everlasting.</p>
+            <p>Finally, this is the sum in brief of what hath been spoken, that what<g ref="char:EOLhyphen"/>soever form or way of Worship any Nation or particular person or persons sets up, not guided and directed thereunto by the Light of the Lord Jesus Christ, or the Light which is Christ, in his own conscience whatsoever he or they may pretend Worship they know not what, their own inventions, conforming outwardly to whatsoever the powers of the Earth sets up, but inwardly their own lusts, what is most agree<g ref="char:EOLhyphen"/>able and pleasing to their tempers and Constitutions; some profess Christianity in vvords, being cloathed in sheeps cloathing, make out<g ref="char:EOLhyphen"/>vvard
+<pb n="9" facs="tcp:36387:6"/>likenesses and imitations of the Saints, haveing their vvord to trade vvithal, set their thresholds by their thresholds, but inwardly ravening wolves, by their fruits they are known; some are bare and naked without the sheeps cloathing, the S<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ints words, as the heathens and <hi>Indians,</hi> of whom there may be more hopes to own the truth, than those that have covered themselves over with the large fig leaves of deceit and hypocrisie: Others make mix<g ref="char:EOLhyphen"/>tures of the Saints words, and heathenish customes and traditions of their fathers but still phable to conform to whatsoever the powers of the laad requires, will hazard nothing for their religion, this they call wisdom and pollicy; had <hi>Daniel</hi> done so he had not bin cast into the Lyon Den, nor the three children into the fiety furnace, neither had any need to suffer under the heathen Emperours, had they obey'd them in what they required, though they were counted the highest powers, and bad Laws of their own making on their sides, as now they bave; yet they that knew the true and living God in all ages, obeyed him a<g ref="char:EOLhyphen"/>bove man, be his power never so great, and his Lavvs never so strict to cause them to suffer for their obedience: And vve can solemnly aver at this time, &amp; call the Lord of Heaven &amp; Earth to vvitness that vve suf<g ref="char:EOLhyphen"/>fer for no other thing than the testimony of a pure conscience to<g ref="char:EOLhyphen"/>vvards God, namely, because vve cannot Svvear, being a breach of his Commands, nor ovvn the vvorship set up in this Nation by a compul<g ref="char:EOLhyphen"/>five power, contrary (as we are perswaded in our own consciences) to the will of the Lord to us manifested.</p>
+            <p>Now if there be any tenderness of Spirit, or any spark of ingenuity left in you (as there was in Saul when he confessed that <hi>David</hi> was more righteous than himself) consider, and lay it seriously to heart, what comfort can any receive in that which he is not lead unto by the Spirit of truth, and the perswasions of his own conscience; and what e<g ref="char:EOLhyphen"/>vil or detriment can it be to you or your worship, to leave us to our perswasions; you your selves having the same liberty we desire: Novv be cool in your spirits a vvhile, and lay aside your carnal vveapons &amp; prisons; bring all to the touchstone, to the ballance of the sanctuary, truth wil sose nothing by tryal, and that which is able to stand in the Light, in the fire, in the ballance to be tryed, let it come out, let it stand and continue, and be owned for truth for ever; and what cannot stand, let it be condemned, burnt up, and cast out for ever; so the controver<g ref="char:EOLhyphen"/>sie between us and you will be decided, (as betvven <hi>Elijah</hi> and <hi>Baals</hi> priests) and the contention will cease, without banishing our persons,
+<pb n="10" facs="tcp:36387:7"/>or spilling of blood; which if ye do, ye will have no cause to repent of this.</p>
+            <p>And this I leave with you for a testimony 'ere <hi>I</hi> conclude, that if they leave not off to usurp Gods throne, and take away his prerogative, and leave the Lord alone to guide and direct in his own. Worship, who manifests unto all what be requires of them, verily he wil come against you as a Lyon, and deal vvith you as traytors to his ovvn dignity, and leave you for an everlasting reproach to all generations: Therefore be vvise, O ye Kings and Rulers of the Earth, hearken unto the voice of the Lord, and come out of <hi>Babylon</hi> (her fall is nigh at hand) that ye be not partakers of her sins, lest ye partake of her plagues.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:36387:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
